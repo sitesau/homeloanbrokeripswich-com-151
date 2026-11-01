@@ -1,0 +1,22 @@
+{
+  "wheel_id": 638,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-com-151",
+  "project": "mortgage-brokers-ipswich-suburb-guide-5de9a1c52c01cd1d08adbe112",
+  "parent_t1_ref": "homeloanbrokeripswich.com-009",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage brokers ipswich suburb guide",
+  "intended_url": "https://sitesau.github.io/homeloanbrokeripswich-com-151/",
+  "tier": "T2",
+  "writeback_nonce": "625b0f9e0c48c86f",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/homeloanbrokeripswich.com-009/mortgage-brokers-ipswich.html",
+      "anchor": "more on mortgage brokers ipswich",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
